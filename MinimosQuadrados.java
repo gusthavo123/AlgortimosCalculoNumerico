@@ -1,5 +1,5 @@
 package Calculo;
-public class MinimosQuadradosSimples {
+public class MinimosQuadrados {
 
     public static void main(String[] args) {
         double[] x = {-1, 2, 3};
